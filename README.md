@@ -42,10 +42,10 @@ then add`<a>` tag with href-"menu" and class "cta-button" with cntent inside Eng
         <div class="ingredients-overlay">
             <h4>Scanner Analysis</h4>
             <ul>
-                <li>Plasma Rice Noodles</li>
-                <li>Bioluminescent Algae</li>
-                <li>Void Broth</li>
-                <li>Star Anise</li>
+                <li>Anti-Matter Patty</li>
+                <li>Gamma-Irradiated Lettuce</li>
+                <li>Levitation Yeast Bunh</li>
+                <li>Neon Cheese</li>
             </ul>
         </div>
     </div>
